@@ -48,13 +48,5 @@ The following technologies and tools were instrumental in the completion of this
 
 ## Author
 
-*   [Your Name] (Replace with the actual name from the CV)
-*   Economics Honours Student, Ramanujan College, Delhi University (Expected Graduation: May 2026)
-*   LinkedIn: [Your LinkedIn Profile URL (Optional, if provided in CV)]
-*   GitHub: [Link to this project's GitHub repository once created]
+*   Email: pagarani07@gmail.com
 
-## Future Scope / How to Use
-
-*   This academic project lays a strong foundation in data collection, analysis, visualization, and predictive modelling. The comprehensive findings and detailed methodology are documented in the project report.
-*   Future enhancements could include exploring more advanced machine learning algorithms, incorporating a wider range of features, or developing an interactive interface for the model.
-*   As an academic project, direct "how to run" steps for the codebase are best detailed within the project's repository if code is shared. The primary deliverable discussed in the CV is the structured report and visualizations.
