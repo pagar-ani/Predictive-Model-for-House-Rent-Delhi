@@ -39,8 +39,7 @@ The following technologies and tools were instrumental in the completion of this
     *   **Pandas & NumPy:** For data manipulation, cleaning, and numerical analysis.
     *   **Matplotlib & Seaborn:** For developing visualizations and exploratory data analysis.
     *   **Scikit-learn (inferred):** As a standard Python library for building predictive models (machine learning).
-    *   **(Possibly) SQL:** The CV mentions "SQL (Basic)" as a skill, which might have been used in the data gathering or initial processing stages if the public data was in a relational format (though less likely given the direct Kaggle source).
-    *   **(Possibly) MS Excel/Power BI:** The CV lists "Advanced Excel" and "Power BI (Familiarity for reporting)" which could have been used for aspects of the "structured report" or initial data exploration/visualization.
+
 
 ## Project Status
 
