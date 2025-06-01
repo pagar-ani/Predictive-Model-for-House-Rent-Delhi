@@ -38,7 +38,7 @@ The following technologies and tools were instrumental in the completion of this
 *   **Key Libraries/Tools:**
     *   **Pandas & NumPy:** For data manipulation, cleaning, and numerical analysis.
     *   **Matplotlib & Seaborn:** For developing visualizations and exploratory data analysis.
-    *   **Scikit-learn (inferred):** As a standard Python library for building predictive models (machine learning).
+    *   **Scikit-learn:** As a standard Python library for building predictive models (machine learning).
 
 
 ## Project Status
