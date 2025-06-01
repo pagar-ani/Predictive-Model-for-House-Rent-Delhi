@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project represents a practical application of data science principles to engineer a predictive model for residential rental prices in Delhi. It was undertaken to demonstrate skills in data analysis, technological implementation, and methodical research to derive actionable insights from complex datasets. The work showcases project management capabilities and the application of knowledge from academic coursework and a Data Analytics certification to identify and understand market dynamics.
+This project represents a practical application of data science principles to engineer a predictive model for residential rental prices in Delhi. It was undertaken to demonstrate skills in data analysis, technological implementation, and methodical research to derive actionable insights from complex datasets. The work showcases the application of knowledge from academic coursework and a Data Analytics certification to identify and understand market dynamics.
 
 ## Problem Statement
 
